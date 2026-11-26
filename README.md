@@ -7,6 +7,7 @@
 [![MASCHINENMEISTER](https://img.shields.io/badge/Flagship%20SaaS-maschinen--meister.de-0284c7?style=for-the-badge)](https://maschinen-meister.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hammad%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-shaikh-maschinenmeister/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5986--2916-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5986-2916)
+[![Wikidata](https://img.shields.io/badge/Wikidata-Q142304314-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q142304314)
 
 </div>
 
@@ -42,3 +43,4 @@ I design, code, and scale **B2B SaaS platforms**, **high-performance web applica
 - **SaaS Platform:** [maschinen-meister.de](https://maschinen-meister.de)
 - **Email:** `service@maschinen-meister.de`
 - **ORCID:** [0009-0003-5986-2916](https://orcid.org/0009-0003-5986-2916)
+- **Wikidata:** [Q142304314 (MASCHINENMEISTER)](https://www.wikidata.org/wiki/Q142304314)
